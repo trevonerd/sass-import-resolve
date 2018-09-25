@@ -1,12 +1,12 @@
 {
-  "name": "@csstools/sass-import-resolve",
+  "name": "sass-import-resolve-no-scope",
   "version": "1.0.0",
   "description": "An algorithm for resolving imports in Sass",
   "author": "Jonathan Neal <jonathantneal@hotmail.com>",
   "license": "CC0-1.0",
-  "repository": "jonathantneal/sass-import-resolve",
-  "homepage": "https://github.com/jonathantneal/sass-import-resolve#readme",
-  "bugs": "https://github.com/jonathantneal/sass-import-resolve/issues",
+  "repository": "trevonerd/sass-import-resolve",
+  "homepage": "https://github.com/trevonerd/sass-import-resolve#readme",
+  "bugs": "https://github.com/trevonerd/sass-import-resolve/issues",
   "main": "index.js",
   "module": "index.mjs",
   "files": [
